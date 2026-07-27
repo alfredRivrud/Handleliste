@@ -7,3 +7,7 @@ Handleliste+ skal gjøre det lettere å finne ut hva man skal spise, samt gjøre
 ## Datamodell
 
 ![Datamodell](docs/EADatamodell)
+
+
+Endringer som må gjøres:
+I datamodell: legg til tid på oppskrift. 
