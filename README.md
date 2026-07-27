@@ -11,3 +11,5 @@ Handleliste+ skal gjøre det lettere å finne ut hva man skal spise, samt gjøre
 
 Endringer som må gjøres:
 I datamodell: legg til tid på oppskrift. 
+
+NESTE STEG: lag oppskriftregister med liste inni liste. 
