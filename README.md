@@ -12,4 +12,4 @@ Handleliste+ skal gjøre det lettere å finne ut hva man skal spise, samt gjøre
 Endringer som må gjøres:
 I datamodell: legg til tid på oppskrift. Og varer (ingredienser?)
 
-NESTE STEG: lag oppskriftregister med liste inni liste. 
+NESTE STEG: se på og forstå ALT du har av kode så langt. se gemini og intelli. TENK litt mer før du fortsetter, for å unngå følgefeil... planlegg litt mer... 
