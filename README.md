@@ -9,4 +9,4 @@ Handleliste+ skal gjøre det lettere å finne ut hva man skal spise, samt gjøre
 ![Datamodell](docs/EADatamodell2.png)
 
 
-Neste steg, begynn programmeringen i java på nytt, med fokus på forståelse fremfor effektivitet. 
+Neste steg, begynn programmeringen i java på nytt, med fokus på forståelse fremfor effektivitet. Oppskrift er kopiert, forstå den, og bruk den som utgangspunkt til å skrive de neste selv!
