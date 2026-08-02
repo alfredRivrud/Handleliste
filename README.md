@@ -6,7 +6,7 @@ Handleliste+ skal gjøre det lettere å finne ut hva man skal spise, samt gjøre
 
 ## Datamodell
 
-![Datamodell](docs/EADatamodell2)
+![Datamodell](docs/EADatamodell2.png)
 
 
 Neste steg, begynn programmeringen i java på nytt, med fokus på forståelse fremfor effektivitet. 
